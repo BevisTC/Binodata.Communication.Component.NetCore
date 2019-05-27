@@ -1,0 +1,1 @@
+# Binodata.Communication.Component.NetCore
